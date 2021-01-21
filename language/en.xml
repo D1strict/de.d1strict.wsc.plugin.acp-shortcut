@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="https://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.woltlab.com https://www.woltlab.com/XSD/2019/language.xsd" languagename="English" languagecode="en" countrycode="gb">
+  <category name="wcf.acp.group">
+      <item name="wcf.acp.group.option.admin.general.canUseACPShortcut"><![CDATA[Can use ACP-Shortcut]]></item>
+  </category>
+</language>
