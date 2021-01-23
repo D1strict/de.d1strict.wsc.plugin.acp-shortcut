@@ -3,4 +3,7 @@
   <category name="wcf.acp.group">
       <item name="wcf.acp.group.option.admin.general.canUseACPShortcut"><![CDATA[Can use ACP-Shortcut]]></item>
   </category>
+  <category name="wcf.acp.option">
+      <item name="wcf.acp.option.module_acpshortcut"><![CDATA[Open ACP-Shortcut in a new tab]]></item>
+  </category>
 </language>
