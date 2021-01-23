@@ -6,8 +6,8 @@
 		<packagedescription><![CDATA[Adds a shortcut to the ACP in the frontend.]]></packagedescription>
 		<packagedescription language="de"><![CDATA[Fügt im Frontend eine Verknüpfung zum ACP hinzu.]]></packagedescription>
 		<packageurl><![CDATA[https://shop.d1strict.de/product/23-acp-verkn%C3%BCpfung/]]></packageurl>
-		<version><![CDATA[1.0.0]]></version>
-		<date><![CDATA[2021-01-15]]></date>
+		<version><![CDATA[1.0.1]]></version>
+		<date><![CDATA[2021-01-23]]></date>
 		<license><![CDATA[Lizenz: <https://d1strict.de/free/>]]></license>
 	</packageinformation>
 	<authorinformation>
@@ -28,5 +28,11 @@
 		<instruction type="userGroupOption"/>
 		<instruction type="templateListener"/>
 		<instruction type="template"/>
+		<instruction type="option" />
+	</instructions>
+	<instructions type="update" fromversion="1.0.0">
+		<instruction type="language"/>
+		<instruction type="template"/>
+		<instruction type="option" />
 	</instructions>
 </package>
