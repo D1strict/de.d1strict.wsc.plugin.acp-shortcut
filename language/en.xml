@@ -4,7 +4,7 @@
       <item name="wcf.acp.group.option.admin.general.canUseACPShortcut"><![CDATA[Can use ACP-Shortcut]]></item>
   </category>
   <category name="wcf.acp.option">
-      <item name="wcf.acp.option.module_acpshortcut"><![CDATA[Open ACP-Shortcut in a new tab]]></item>
-      <item name="wcf.acp.option.module_acpshortcut.description"><![CDATA[Appends the attribute “target="_blank"” to the ACP-Shortcut, causing the user’s browser to open the link in a new window.]]></item>
+      <item name="wcf.acp.option.newtab_acpshortcut"><![CDATA[Open ACP-Shortcut in a new tab]]></item>
+      <item name="wcf.acp.option.newtab_acpshortcut.description"><![CDATA[Appends the attribute “target="_blank"” to the ACP-Shortcut, causing the user’s browser to open the link in a new window.]]></item>
   </category>
 </language>

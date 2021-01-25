@@ -4,7 +4,7 @@
       <item name="wcf.acp.group.option.admin.general.canUseACPShortcut"><![CDATA[Kann ACP-Verknüpfung verwenden]]></item>
   </category>
   <category name="wcf.acp.option">
-      <item name="wcf.acp.option.module_acpshortcut"><![CDATA[ACP-Verknüpfung in einem neuen Tab öffnen]]></item>
-      <item name="wcf.acp.option.module_acpshortcut.description"><![CDATA[Setzt das Attribut „target="_blank"“ für die ACP-Verknüpfung und weist den Browser dadurch an, einen aufgerufenen Link in einem neuen Browser-Fenster zu öffnen.]]></item>
+      <item name="wcf.acp.option.newtab_acpshortcut"><![CDATA[ACP-Verknüpfung in einem neuen Tab öffnen]]></item>
+      <item name="wcf.acp.option.newtab_acpshortcut.description"><![CDATA[Setzt das Attribut „target="_blank"“ für die ACP-Verknüpfung und weist den Browser dadurch an, einen aufgerufenen Link in einem neuen Browser-Fenster zu öffnen.]]></item>
   </category>
 </language>
