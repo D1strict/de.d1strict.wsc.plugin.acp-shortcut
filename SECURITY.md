@@ -4,8 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| > 0.0.1   | :white_check_mark: |
+| > 1.0.0   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
-Report the Vulnerability immediately to: development@ace-logistics.uk or on our website <https://d1strict.de/contact/>.
+Report the Vulnerability immediately to: aufsicht@d1strict.de or on our website <https://d1strict.de/development/>.
